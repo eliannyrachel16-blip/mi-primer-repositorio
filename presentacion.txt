@@ -1,0 +1,7 @@
+MI PRIMER PROYECTO EN GITHUB
+
+Nombre: elianny
+Curso: Informática
+
+Mi objetivo es aprender a utilizar GitHub para almacenar proyectos, controlar versiones y colaborar con otros desarrolladores.
+
